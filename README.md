@@ -1,7 +1,7 @@
 <!-- ![Profile Name Banner](https://github.com/riyanbagusb/my-portfolio/raw/master/images/banner/banner.png) -->
 ![Profile Name Banner](https://github.com/riyanbagusb/my-portfolio/raw/master/images/banner/banner.png)
 
-these are all projects that I've been working on!
+these are all projects i have worked on!
 
 <!-- ### Practical Work. -->
 
