@@ -18,7 +18,7 @@ these are all projects i have worked on!
 
 </samp>
 
-### minithesis
+### Minithesis (Information Technology, Darma Persada University)
 
 <samp>
 
