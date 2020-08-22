@@ -18,3 +18,11 @@ these are all projects i have worked on!
 
 </samp>
 
+### minithesis
+
+<samp>
+
+- Sistem Prediksi Perkembangan COVID-19
+![SPPCOV19](https://github.com/riyanbagusb/my-portfolio/raw/master/images/projects/sppcov19.png)
+
+</samp>
